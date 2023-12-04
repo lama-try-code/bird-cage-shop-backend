@@ -1,0 +1,141 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "BCS_ShopContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "backend_not_clear",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Bird]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BirdProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BirdType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Blog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CategoryProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Color]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ColorProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FeedBack]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Image]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Material]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MaterialProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Order]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Payment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductCustom]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Size]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SizeProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Style]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StyleProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[User]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Voucher]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VoucherUserOrder]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "lamaa.BCS_SWP391.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
